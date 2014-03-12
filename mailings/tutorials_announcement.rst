@@ -83,7 +83,7 @@ in the form, or send the materials to tutorials@scipy.org. You will need to incl
   prior to the class to follow along. Please mention if any packages
   are not cross platform. Installation instructions or links to
   installation documentation should be provided for packages that are
-  not available through easy_install, pip, EPD, Anaconda, etc., or
+  not available through easy_install, pip, Canopy, Anaconda, etc., or
   that require third party or compiled libraries.
 * If available, the tutorial notes, slides, exercise files, and iPython
   notebooks, even if they are preliminary.
@@ -93,17 +93,17 @@ Selection
 
 Accepted tutorials will be announced on May 1st. Final tutorial
 materials and instructions for attendees will be due on June 6th. This
-will include final version numbers of required software and a test 
-script that can be run by attendees to ensure that they have 
+will include final version numbers of required software and a test
+script that can be run by attendees to ensure that they have
 sufficient time to prepare their laptops before the conference.
 
 Important dates:
 ----------------
 
 * Jan 15th:	Calls for tutorial submissions
-* Mar 14th:	Tutorial submissions due 
+* Mar 14th:	Tutorial submissions due
 * May 1st:	Speakers and schedule announced
-* June 6th: Final submission of tutorial materials, software version 
+* June 6th: Final submission of tutorial materials, software version
   numbers and test scripts.
 
 * Sunday-Monday, July 6 - 7: SciPy 2014 Tutorials, Austin TX
